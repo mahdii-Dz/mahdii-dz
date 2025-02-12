@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm mahdi</h1>
-<h3 align="center">A frontend developer from algeria</h3>
+<h3 align="center">A frontend developer & UX/UI designer from algeria</h3>
 
 - 🌱 I’m currently learning **frontend frameworks and backend**
 
