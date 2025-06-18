@@ -33,6 +33,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdii-dz&show_icons=true&theme=dark&locale=en" alt="mahdii-dz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdii-dz&show_icons=true&theme=nightowl&locale=en" alt="mahdii-dz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdii-dz&theme=dark" alt="mahdii-dz" /></p>
