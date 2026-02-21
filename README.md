@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdii-dz&label=Profile%20views&color=0e75b6&style=flat" alt="mahdii-dz" /> </p>
 
-- 🌱 I’m currently learning **Front-end Libraries**
+- 🌱 I’m currently learning **Back-end**
 
 - 👨‍💻 All of my projects are available at [https://mahdiiportfolio.netlify.app/](https://mahdiiportfolio.netlify.app/)
 
