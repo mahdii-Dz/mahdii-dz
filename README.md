@@ -73,9 +73,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/mahdii-dz/mahdii-dz/output/pacman-contribution-graph-dark.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/mahdii-dz/mahdii-dz/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg)">
-  <img alt="pacman contribution graph" src="[https://raw.githubusercontent.com/mahdii-dz/mahdii-dz/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg">
 </picture>
 
 ###
