@@ -24,6 +24,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,redux,nextjs,threejs,nodejs,expressjs,mongodb,mysql,docker,redis,git,c,linux,wordpress,figma,blender,npm" />
 </div>
+
 ###
 
 <div align="center">
